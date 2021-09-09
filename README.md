@@ -1,9 +1,9 @@
 # Live Website
 https://cryptocoin-track.netlify.app/
 
-<img width="952" alt="2021-09-09" src="https://user-images.githubusercontent.com/76563215/132696176-0e02b724-9464-45a3-85fc-b37ee0697beb.png">
+<img width="600" alt="2021-09-09" src="https://user-images.githubusercontent.com/76563215/132696176-0e02b724-9464-45a3-85fc-b37ee0697beb.png">
 
-<img width="956" alt="2021-09-09 (1)" src="https://user-images.githubusercontent.com/76563215/132696223-9ebb1d63-66b0-4bce-b0c5-81bf1dd45b09.png">
+<img width="600" alt="2021-09-09 (1)" src="https://user-images.githubusercontent.com/76563215/132696223-9ebb1d63-66b0-4bce-b0c5-81bf1dd45b09.png">
 
 
 
